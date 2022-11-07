@@ -10,9 +10,8 @@ npm init
 
 ~~~
 npm i
-node app.js
 ~~~
-In the web Browser, go to localhost:3000
-
-- To compose a post, go to localhost:3000/compose 
-- To navigate to a specific post, go to localhost:3000/posts/<postName> 
+For running the app type ***npm start*** in the terminal with all the dependencies pre-installed.
+~~~
+In the web Browser, go to localhost:3010
+ 
